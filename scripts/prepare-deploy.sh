@@ -6,6 +6,5 @@ make build
 
 cp -rv \
   public/index.html \
-  public/js/bundle.js \
-  public/js/bundle.js.map \
+  public/js \
   dist
